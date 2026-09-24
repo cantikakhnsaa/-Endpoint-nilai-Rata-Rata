@@ -2,7 +2,7 @@ const siswa = [
     {
         nama: "Cantika",
         kelas: "12 PPLG 2",
-        nilai: [90, 78, 82]
+        nilai: [90, 88, 82]
     },
     {
         nama: "Kala",
