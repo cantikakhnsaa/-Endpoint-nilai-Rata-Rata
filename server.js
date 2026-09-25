@@ -61,5 +61,5 @@ app.get("/nilai/rata-rata/:kelas", (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`Server Berjalan di http://localhost:${port}`);
+  console.log(`server Berjalan di http://localhost:${port}`);
 });
